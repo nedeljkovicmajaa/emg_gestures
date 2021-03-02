@@ -28,6 +28,7 @@ U sklopu implementacije Notch filtera na okolinu od 50Hz, implementiran je i ban
 Za svaku implementaciju filtera sačuvani su primeri u vidu slika:  
         - prikaz sirovog i procesiranog signala  
         - frekvencijski i fazni odziv  
+       
 ---------------------------------------------------------------------------------------------
 16.8.  
   
@@ -40,6 +41,7 @@ Za Hampel filter i vizualizaciju spektrogramom sačuvani su primeri u vidu slika
                 2. notch filter  
                 3. hampel filter  
                 4. neobrađeni signal
+                
 ---------------------------------------------------------------------------------------------
 17.8.  
   
@@ -51,6 +53,7 @@ Za windowing sačuvani su primeri u vidu slika:
         - prikaz vizualizacije prvog dela prvog pokreta osobe 1  
         - prikaz vizualizacije drugog dela prvog pokreta osobe 1  
         - prikaz vizualizacije trećeg dela prvog pokreta osobe 1  
+        - 
 ---------------------------------------------------------------------------------------------
 18.8.
 
@@ -58,31 +61,37 @@ Za windowing sačuvani su primeri u vidu slika:
 Butterworth i Notch filter i nakon toga su ti signali kao i oni nepretprocesirani vizualizovani procesom windowinga.  
 Slike nastale prvim načinom vizualizacije su u .npy binarnom formatu.
 Započeta je implementacija vizualizacije spektrogramom.  
+
 ---------------------------------------------------------------------------------------------
 19.8.  
   
 Četrtog dana rada na projektu završen je kod za vizualizaciju spektrogramom. Pokrenut je na većini signala.   
 Započet je rad na arhitekturi mreže, sa odgovarajućim slojevima za windowing slike. Napravljen je fajl sa labelama za svaku sliku.  
+
 ---------------------------------------------------------------------------------------------
 20.8.  
   
 Petog dana rada na projektu ponovo su pokretani kodovi na svim podacima, zbog greške pri čuvanju i završena je prva verzija koda arhitekture  
 konvolucione neuronske mreže.   
+
 ---------------------------------------------------------------------------------------------
 21.8.  
 
 Šestog dana rada na projektu izvršena je podela fajlova u podfoldere i  njihova grupacija u trening set, set za validaciju i test set.  
-Formirane su matrice koje predstavljaju ulazne podatke za mrežu, kao i potrebne labele koje odgovaraju svakom setu podataka posebno.  
+Formirane su matrice koje predstavljaju ulazne podatke za mrežu, kao i potrebne labele koje odgovaraju svakom setu podataka posebno. 
+
 ---------------------------------------------------------------------------------------------
 22.8.  
 
 Sedmog dana rada na projektu pokučano je pokretanje mreže, i debagovani su nastali problemi. Neki od njih su: veličine fajlova za podatke  
 vizualizovane windowing metodom, dimenzije fajlova za podatke vizualizovane spectrogram metodom,...
+
 ---------------------------------------------------------------------------------------------
 23.8.  
 
 Osmog dana napravljana je pauza u radu, ali je i pored toga debagovana mreža, podešavane su dimenzije kernela, prepravljane su dimenzije ulaznih  
 podataka, itd.  
+
 ---------------------------------------------------------------------------------------------
 24.8.
 
