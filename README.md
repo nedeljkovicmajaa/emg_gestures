@@ -53,7 +53,7 @@ Za windowing sačuvani su primeri u vidu slika:
         - prikaz vizualizacije prvog dela prvog pokreta osobe 1  
         - prikaz vizualizacije drugog dela prvog pokreta osobe 1  
         - prikaz vizualizacije trećeg dela prvog pokreta osobe 1  
-        - 
+        
 ---------------------------------------------------------------------------------------------
 18.8.
 
