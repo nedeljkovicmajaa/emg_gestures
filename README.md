@@ -1,26 +1,26 @@
-- English
+- English     
 
-  - plan.txt - project work plan
-  - link_DB2 - link to the database with the signals used in this work  
-  - priprema 
-             - vizualizacija_spektogram.py - code for signal visualization - spectrogram
-             - CNN_model.py - code for the example CNN classifier and saving in the model  
-             - evaluacija_modela.py - code for running the saved model and its evaluation
-             - spectrogram.py - test code for spectrogram 
-             - windowing.py - test code for windowing  
-  - rad 
-        - butterworth_filter.py - code for Butterworth filter implementation 
-        - notch_filter.py - code for Notch filter implementation   
-        - hampel_filter.py - code for Hampfel filter implementation  
-        - spektrogram.py - code for Spectrogram visualization   
-        - windowing.py - code for Windowing method  
-        - CNN_window_non.py - code for CNN   
-        - labele.py - code for forming the input matrix of the labels   
-        - spajanje_fajlova.py - code for forming the input matrix of the datas for the CNN 
-        - spectrogrami.py - merging spectograms of each chanal into one matrix  
-        - spektrogram_podela.py - forming the single pictures
-        - split_folders.py - code for separating the data into 3 sets - training, validation i test set  
-  - Slike - accompanying material saved in the form of images
+  - plan.txt - project work plan        
+  - link_DB2 - link to the database with the signals used in this work         
+  - priprema           
+             - vizualizacija_spektogram.py - code for signal visualization - spectrogram      
+             - CNN_model.py - code for the example CNN classifier and saving in the model       
+             - evaluacija_modela.py - code for running the saved model and its evaluation     
+             - spectrogram.py - test code for spectrogram      
+             - windowing.py - test code for windowing       
+  - rad      
+        - butterworth_filter.py - code for Butterworth filter implementation      
+        - notch_filter.py - code for Notch filter implementation        
+        - hampel_filter.py - code for Hampfel filter implementation       
+        - spektrogram.py - code for Spectrogram visualization        
+        - windowing.py - code for Windowing method       
+        - CNN_window_non.py - code for CNN        
+        - labele.py - code for forming the input matrix of the labels        
+        - spajanje_fajlova.py - code for forming the input matrix of the datas for the CNN      
+        - spectrogrami.py - merging spectograms of each chanal into one matrix       
+        - spektrogram_podela.py - forming the single pictures     
+        - split_folders.py - code for separating the data into 3 sets - training, validation i test set       
+  - Slike - accompanying material saved in the form of images     
 
         Abstract
         
@@ -47,29 +47,29 @@
 
 -----------------------------------------------------------------------------------------------------
 
-- Srpski
+- Srpski     
 
-  - plan.txt - plan rada na projektu  
-  - link_DB2 - link ka bazi sa signalima koje koristimo u radu  
-  - priprema - Materijal pripremljen pre početka rada na projektu:  
-             - vizualizacija_spektogram.py - kod za vizualizaciju signala spektrogramom  
-             - CNN_model.py - kod za probni CNN klasifikator i  njegovo čuvanje u modelu   
-             - evaluacija_modela.py - kod za pokretanje sačuvanog modela i njegova evaluacija  
-             - spectrogram.py - probni kod za spectrogram  
-             - windowing.py - probni kod za windowing  
-  - rad - Zvaničan rad na projektu:  
-        - butterworth_filter.py - kod za implementaciju butterworth filtera  
-        - notch_filter.py - kod za implementaciju notch filtera  
-        - hampel_filter.py - kod za implementaciju hampel filtera  
-        - spektrogram.py - kod za vizualizaciju metodom spektrograma  
-        - windowing.py - kod za windowing metodu  
-        - CNN_window_non.py - kod za arhitekturu mreže  
-        - labele.py - kod za formiranje ulazne matrice labela za mrežu  
-        - spajanje_fajlova.py - kod za formiraje ulaznih matrica podataka za mrežu  
-        - spectrogrami.py - spajanje spectrograma za svaki kanal posebno u jednu matricu  
+  - plan.txt - plan rada na projektu       
+  - link_DB2 - link ka bazi sa signalima koje koristimo u radu       
+  - priprema - Materijal pripremljen pre početka rada na projektu:       
+             - vizualizacija_spektogram.py - kod za vizualizaciju signala spektrogramom       
+             - CNN_model.py - kod za probni CNN klasifikator i  njegovo čuvanje u modelu        
+             - evaluacija_modela.py - kod za pokretanje sačuvanog modela i njegova evaluacija       
+             - spectrogram.py - probni kod za spectrogram       
+             - windowing.py - probni kod za windowing       
+  - rad - Zvaničan rad na projektu:       
+        - butterworth_filter.py - kod za implementaciju butterworth filtera       
+        - notch_filter.py - kod za implementaciju notch filtera       
+        - hampel_filter.py - kod za implementaciju hampel filtera       
+        - spektrogram.py - kod za vizualizaciju metodom spektrograma       
+        - windowing.py - kod za windowing metodu       
+        - CNN_window_non.py - kod za arhitekturu mreže       
+        - labele.py - kod za formiranje ulazne matrice labela za mrežu       
+        - spajanje_fajlova.py - kod za formiraje ulaznih matrica podataka za mrežu       
+        - spectrogrami.py - spajanje spectrograma za svaki kanal posebno u jednu matricu       
         - spektrogram_podela.py - formiranje pojedinačnih slika  
         - split_folders.py - kod za podelu podataka u tri seta - trening, validaciju i set  
-  - Slike - propratni materijal sačuvan u vidu slika  
+  - Slike - propratni materijal sačuvan u vidu slika       
   
         Apstrakt
         
