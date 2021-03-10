@@ -1,4 +1,4 @@
-- English     
+- English      
 
   - plan.txt - project work plan        
   - link_DB2 - link to the database with the signals used in this work         
