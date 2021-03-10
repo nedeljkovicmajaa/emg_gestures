@@ -3,7 +3,6 @@ from scipy import signal
 import scipy.io as si
 import numpy as np
 
-
 for sub in range(1, 41):
     path = f"../DB2/DB2_s{sub}/S{sub}_E1_A1.mat"
     # Učitavanje signala
