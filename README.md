@@ -1,7 +1,6 @@
-emg_gestovi-0.3.pdf - poster
-
 - English      
-
+           
+  - emg_gestovi-0.3.pdf - poster           
   - plan.txt - project work plan        
   - link_DB2 - link to the database with the signals used in this work         
   - priprema           
@@ -50,7 +49,8 @@ emg_gestovi-0.3.pdf - poster
 -----------------------------------------------------------------------------------------------------
 
 - Srpski     
-
+           
+  - emg_gestovi-0.3.pdf - poster           
   - plan.txt - plan rada na projektu       
   - link_DB2 - link ka bazi sa signalima koje koristimo u radu       
   - priprema - Materijal pripremljen pre početka rada na projektu:       
