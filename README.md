@@ -85,3 +85,5 @@
         najčešće pogrešno prepoznat pokret je palac postavljen nasuprot malića (klasa 4), dok je najčešće pogrešno određen pokret ispruženi palac, kažiprst i srednji prst, dok
         su ostali savijeni (klasa 3). Najčešće tačno protumačene su klase 14 (istzanje ruke spolja), 16 (pomeranje šake ulevo) i 17 (istezanje pesnice), dok veoma mali broj
         klasa pogrešno prepoznat kao klasa 10 (okret raširene ruke udesno).
+     
+![download](https://user-images.githubusercontent.com/57879705/140623823-cbf03cbe-d4b6-48a5-b193-1e69a0490132.jpg)
